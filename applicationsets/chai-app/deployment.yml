@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chai-app
-        image: riteshk01/majorproject:latest
+        image: riteshk01/notes-app
         ports:
         - containerPort: 80
         env:
